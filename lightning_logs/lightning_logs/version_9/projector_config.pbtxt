@@ -1,5 +1,0 @@
-embeddings {
-  tensor_name: "month:00028"
-  metadata_path: "00028/month/metadata.tsv"
-  tensor_path: "00028/month/tensors.tsv"
-}
